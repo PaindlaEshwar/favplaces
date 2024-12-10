@@ -1,0 +1,30 @@
+
+.c1{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items:end;
+    height: 130vh;
+
+}
+.d1{
+    background-color:white;
+
+}
+.head{
+    color: rgb(195, 13, 13);
+  font-size: 38px;
+  font-weight: bold;
+  padding: 24px;
+}
+.sildeimage{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.p1{
+    color: black;
+    font-size: 18px;
+    margin: 5px;
+    font-weight: 400;
+}

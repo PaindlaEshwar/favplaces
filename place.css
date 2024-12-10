@@ -1,0 +1,48 @@
+*{
+margin: 0px;
+}
+.place{
+    background-image: url("./image/w1.jpg");
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.pl1{
+    background-color: white;
+    height: 200px;
+    padding: 3px;
+    text-align: center;
+    width: 800px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+.h1{
+    text-align: center;
+    font-size: 65px;
+    padding: 2px;
+}
+.h2{
+    text-align: center;
+    font-size: 30px;
+    padding: 2px;
+    font-family: "Brush Script MT", cursive;
+    font-weight: 250;
+}
+.btn1{
+    height: 36px;
+    width: 240px;
+    border-radius: 15px;
+    color:#fff;
+    background-color: rgb(32, 192, 32);
+    padding: 3px;
+    margin: 8px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 27px;
+    border: none;
+
+}

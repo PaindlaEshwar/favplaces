@@ -1,0 +1,51 @@
+*{
+    margin: ;
+}
+.fav1{
+background-image: url("./image/1w1.png");
+height: 260vh;
+width: 1420px;
+background-size: cover;
+padding: 15px;
+margin: 10px;
+}
+.head{
+    padding: 2px;
+    font-size: 50px;
+    margin-left: 30px;
+
+    
+}
+.fav2{
+    background-color: rgb(172, 222, 225);
+    height: 280px;
+    border-radius: 15px;
+    width: 1300px;
+     margin-left: 90px;
+}
+.h1{
+    font-size: 38px;
+    color: rgb(12, 3, 45);
+    font-weight: 800;
+    text-align: center;
+    margin: 5px;
+    padding-top: 10px;
+
+}
+.para{
+    font-size: 25px;
+    margin-left: 20px;
+    text-align: center;
+    margin: 5px;
+}
+.fav3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img{
+    width: 180px;
+    height: 170px;
+    border-radius: 14px;
+    padding: 5px;
+}
